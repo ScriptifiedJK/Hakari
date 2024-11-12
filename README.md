@@ -1,0 +1,2 @@
+# Hakari
+Hakari script tsb
